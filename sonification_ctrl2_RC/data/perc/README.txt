@@ -1,0 +1,1 @@
+This is a music directory.  Place 14 .wav files in here numbered 0.wav, 1.wav etc.  
