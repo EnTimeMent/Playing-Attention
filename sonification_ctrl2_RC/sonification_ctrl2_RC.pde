@@ -1,8 +1,3 @@
-import controlP5.*;
-import processing.sound.*;
-import java.io.File;
-import java.io.IOException;
-
 // P(l)aying Attention Release Candidate
 // Copyright (c) 2019, 2020 University College London
 // Author: Nicolas Gold
@@ -16,6 +11,11 @@ import java.io.IOException;
 // Note: this is a research prototype, not production-quality software. 
 // Note: there are Windows-specific file separators in this prototype code.
 // Note: see the README for information on using this code.
+
+import controlP5.*;
+import processing.sound.*;
+import java.io.File;
+import java.io.IOException;
 
 ControlP5 cp5;
 Button start, pause, cont, loadbutton, framePlay, framePause, frameReset, frameHalf, frameQuarter, frameUnity, frameReverse;
