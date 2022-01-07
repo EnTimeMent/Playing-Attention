@@ -19,7 +19,7 @@ Code embodying the P(l)aying Attention application.  For general information and
 ```
 
 ## Requirements
-This is a Processing sketch developed on Processing 3.5.4.  Download and install [Processing] (https://processing.org/) (3.5.4 or later) and open the sketch.
+This is a Processing sketch developed on Processing 3.5.4.  Download and install [Processing](https://processing.org/) (3.5.4 or later) and open the sketch.
 
 Data dependencies are as follows.
 ### Sounds
