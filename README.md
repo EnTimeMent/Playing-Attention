@@ -28,7 +28,7 @@ Each music directory (`data/canon` and `data/perc` by default) should be populat
 Each file should be of the same duration and will be mapped to a particular joint group as a channel.
 
 ### Data
-This application sonifies relative attention paid to different joint groups.  Data should be ordered as frame-per-column at 60 frames per second.  The first 13 rows of each frame should contain a float representing the proportion of attention the particular joint group is receiving at that time (i.e. the 13 rows should sum to 1).  The 14th row should contain and integer 1 where protective behaviour has been detected and 0 otherwise.  For example:
+This application sonifies relative attention paid to different joint groups.  Data should be ordered as frame-per-column at 60 frames per second.  The first 13 rows of each frame should contain a float representing the proportion of attention the particular joint group is receiving at that time (i.e. the 13 rows should sum to 1).  The 14th row should contain an integer 1 where protective behaviour has been detected and 0 otherwise.  For example:
 
 ```
 0.1	0.05	...
